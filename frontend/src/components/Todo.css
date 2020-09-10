@@ -1,0 +1,36 @@
+.todo {
+    padding: 1.2em;
+}
+
+.todo input {
+    width: 12%;
+    padding: .4em;
+    border: 1px solid #BBDEFB;
+    border-radius: 3px;
+    outline: none;
+}
+
+.btn {
+    border: none;
+    color: #ffffff;
+    background: #1565C0;
+    border-radius: 3px;
+    padding: .4em;
+    margin-left: .6em;
+    width: 3%;
+    outline: none;
+}
+
+.todos {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.todos li {
+    padding: .6em;
+    margin: 1em 22em;
+    color: #1565C0;
+    border-radius: 3px;
+    box-shadow: 0 0 25px 5px rgba(0, 0, 0, .07);
+}

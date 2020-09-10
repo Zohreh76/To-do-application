@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+}
+
+.main-header {
+    width: 100%;
+    background: #1565C0;
+    padding: .6em;
+}
+
+.main-header h2 {
+    color: #ffffff;
+    font-size: 1.4em;
+}
